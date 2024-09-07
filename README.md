@@ -19,10 +19,11 @@ Technologies Used:
 Prerequisites:
 
   Node.js version v16.20.2 (Currently using 64-bit executable).
-  Add your port at .env file
+  A .env file for configuring API keys and the port number
 
 API:
   GeoNames API
   Pixabay API
   Weatherbit API
+
 

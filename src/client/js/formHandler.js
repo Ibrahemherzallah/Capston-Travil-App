@@ -1,4 +1,4 @@
-//////////////////////   FIRST REQ   \\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+//////////////////////   FIRST REQ   \\\\\\\\\\\\\\\\\\\\\\\\\\\
 async function getCityData() {
   const cityName = document.getElementById('countryNameInput').value.trim();
   console.log("Enter to first function");
